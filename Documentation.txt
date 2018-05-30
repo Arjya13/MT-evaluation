@@ -1,0 +1,2 @@
+Need to check for float division by zero
+Check if BLeu aggreagate is AM or GM
